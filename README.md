@@ -6,9 +6,13 @@ Go is an abstract strategy board game for two players in which the aim is to sur
 
 
 
+![ezgif com-video-to-gif](https://github.com/Megamind22/Ai-GoGamePlayer/assets/102037791/52848065-3194-4844-adcc-af19e2639d20)
 
 
-https://github.com/Megamind22/Ai-GoGamePlayer/assets/102037791/7cf1822c-5ac0-4c8e-a981-901b8bedd13c
+
+
+
+
 
 
 # Contact
